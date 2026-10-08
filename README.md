@@ -1,4 +1,4 @@
-# hiaku-worker
+# Haiku-Worker
 
 `/orchestrate`: a Claude Code skill that splits a big task into many small tasks and runs them on lean
 **Claude Haiku 5.5** workers (xhigh effort, no CLAUDE.md/skills/MCP, 100k context cap), in quality-gated waves.
